@@ -5,7 +5,7 @@ WYSIWYG Pixel placement for the ssd1306 using MicroPython
 
 This project provides a graphical interface to design pixel art for SSD1306 OLED displays using MicroPython.
 
-🔗 [Blog post](https://blog.randomboo.com/ssd1306/)  
+🔗 [Blog post](https://randomboo.com/project/ssd1306/)  
 🔗 [Live demo](https://randomboo.com/ssd1306OLED_micropython/pixel_draw_convert.html)
 
 ## Features
